@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/view/Main.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/audios/AudiosIMPL.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/beans/Musico.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/audios/Audios.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/view/utilities/Util.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/malabaristas/ActuacionesMalabaristaIMPL.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/controller/Controlador.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/serializar/Serializar.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/process/Aplicacion.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/beans/Poeta.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/registros/RegistrosIMPL.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/beans/Malabarista.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/registros/Registros.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/serializar/SerializarIMPL.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/view/utilities/es/UtilES.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/beans/Cantante.java</file>
+            <file>file:/D:/Proyectos/Examenes/TalentShowBaseEquipo03/src/model/beans/Artista.java</file>
+        </group>
+    </open-files>
+</project-private>
